@@ -1,33 +1,33 @@
-#coding = system payment import *
+# coding septem
 
-from from customer impost + Class rooms (objects):
+from payment import*
+from customer import*
+class rooms. ( objects):
+"""
+:version:
+:author:
+"""
+"""ATTRIBUTES
 
-: version: author:
+type -of-rooms. (private)
 
-ATTRIBUTES
+no-of - rooms(private)
+room-service(private)
 
-Pupe -0 of- no- of - rooms rooms (private) ( pxlat )
+Start date (private)
+end date(private)
+"""
+def service (self):
+"""
+@@ return:
 
-(private)
-
-Room
-
-Serviu
-
-Start date (private) end date (private)
-
-service (self): 1
-
-@return: @author :
-
-11
-
-(۱
+@ author: 
+"""
 
 pass
 
-def update (self): 1
-
-@return @author
-
+def update (self):
+"""
+@return @ author
+"""
 pass
